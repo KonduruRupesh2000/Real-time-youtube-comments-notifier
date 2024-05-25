@@ -53,3 +53,5 @@ The Python script performs the following tasks:
 This project leverages Python and the YouTube Data API to create a practical solution for real-time comment monitoring, improving the ability to engage with audiences even on videos not owned by the user.
 
 By addressing the pagination issue with efficient coding techniques like generators, the project ensures scalability and effectiveness in real-world applications.
+
+![YouTube Comments Notifier](https://github.com/KonduruRupesh2000/Real-time-youtube-comments-notifier/blob/main/Image%20of%20Youtube%20notifier%20bot.png)
